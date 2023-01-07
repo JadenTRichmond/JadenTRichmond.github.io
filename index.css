@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 400px 1fr 400px;
     grid-template-rows: auto 1fr auto;
-    gap: 2px;
+    gap: 0px;
     height: 90vh;
 }
 
@@ -18,7 +18,7 @@ header, footer{
 
 header, aside, article, footer{
     border-style: solid;
-    border-color: white; 
+    border-color: black; 
     border-width: 5px;
 }
 
