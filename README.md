@@ -1,7 +1,7 @@
 # Jaden Richmond's Portfolio
 Where I store all my current Repos.
 ## Pac-Man Repo
-<a href="JadenTRichmond.github.io/Pac-Man/"> Pac-Man </a>
+<a href="JadenTRichmond.github.io/Pac-Man/README.md/"> Pac-Man </a>
 ## Pac-Men-Factory Repo
 <a href="JadenTRichmond.github.io/Pac-Men-Factory/"> Pac-Men-Factory </a>
 ## Eye-Movement Repo
