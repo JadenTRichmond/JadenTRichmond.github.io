@@ -6,6 +6,11 @@
     height: 90vh;
 }
 
+p, h1, iframe{
+    position: absolute
+    left: 500px
+}
+
 header, footer{
     grid-column: 1 / 4;
 }
