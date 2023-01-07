@@ -6,7 +6,7 @@
     height: 90vh;
 }
 
-.grid-item {
+header, aside, article, footer{
         display: flex;
         align-items: center;
         justify-content: center;
