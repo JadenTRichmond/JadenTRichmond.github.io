@@ -25,7 +25,3 @@ header, aside, article, footer{
 body{
     background-color: $gray-600;
 }
-
-p.indent{
-    text-indent: 40px;
-}
