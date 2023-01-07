@@ -7,7 +7,7 @@
 }
 
 header, aside, article, footer{
-        display: grid;
+        display: flex;
         align-items: center;
         justify-items: center;
 }
