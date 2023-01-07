@@ -1,9 +1,15 @@
 .grid{
     display: grid;
-    grid-template-columns: 200px 1fr 200px;
+    grid-template-columns: 400px 1fr 400px;
     grid-template-rows: auto 1fr auto;
     gap: 2px;
     height: 90vh;
+}
+
+.grid-item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
 }
 
 header, footer{
