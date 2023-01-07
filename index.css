@@ -11,6 +11,12 @@ p, h1, iframe{
     left: 500px
 }
 
+header{
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
 header, footer{
     grid-column: 1 / 4;
 }
