@@ -7,4 +7,4 @@ Where I store all my current Repos.
 ## Eye-Movement Repo
 <a href="https://JadenTRichmond.github.io/Eye-Movement/"> Eye-Movement </a>
 ## Real-Time-Bus-Tracker Repo
-<a href="https://JadenTRichmond.github.io/Real-Time-Bus-Tracke/r"> Real-Time-Bus-Tracker </a>
+<a href="https://JadenTRichmond.github.io/Real-Time-Bus-Tracker/"> Real-Time-Bus-Tracker </a>
