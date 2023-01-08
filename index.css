@@ -10,7 +10,7 @@ header{
   display: grid;
   justify-content: center;
   align-content: center;
-  background-color: $gray-900;
+  background-color: dark gray;
 }
 
 header, footer{
@@ -28,9 +28,9 @@ aside{
 }
 
 footer{
-    background-color: $gray-900;
+    background-color: dark gray;
 }
 
 article{
-    background-color: $gray-600;
+    background-color: gray;
 }
