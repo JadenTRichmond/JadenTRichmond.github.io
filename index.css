@@ -13,7 +13,11 @@ header{
   background-color: dark gray;
 }
 
-header, footer{
+header{
+    grid-column: 1 / 4;
+}
+
+footer{
     grid-column: 1 / 4;
 }
 
