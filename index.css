@@ -18,7 +18,6 @@ header{
 
 header, footer{
     grid-column: 1 / 4;
-    background-color: $gray-900;
 }
 
 header, aside, article, footer{
@@ -29,6 +28,14 @@ header, aside, article, footer{
 
 aside{
     background-color: black;
+}
+
+header{
+    background-color: $gray-900;
+}
+
+footer{
+    background-color: $gray-900;
 }
 
 body{
