@@ -17,8 +17,12 @@ header{
   background-color: $gray-900;
 }
 
-header, footer{
+header{
     grid-column: 1 / 4;
+}
+
+footer{
+    grid-column: 1fr, 1fr, 1fr
 }
 
 header, aside, article, footer{
