@@ -14,7 +14,7 @@ header{
   display: grid;
   justify-content: center;
   align-content: center;
-  background-color: darkslategray;
+  background-color: $gray-900;
 }
 
 header{
@@ -27,18 +27,18 @@ footer{
 
 header, aside, article, footer{
     border-style: solid;
-    border-color: black; 
+    border-color: #000; 
     border-width: 5px;
 }
 
 aside{
-    background-color: black;
+    background-color: #000;
 }
 
 footer{
-    background-color: darkslategray;
+    background-color: $gray-900;
 }
 
 article{
-    background-color: gray;
+    background-color: $gray-600;
 }
