@@ -6,10 +6,6 @@
     height: 90vh;
 }
 
-p, h1, iframe{
-    left: 500px
-}
-
 header{
   display: grid;
   justify-content: center;
@@ -17,12 +13,8 @@ header{
   background-color: $gray-900;
 }
 
-header{
+header, footer{
     grid-column: 1 / 4;
-}
-
-footer{
-    grid-column: 1fr, 1fr, 1fr
 }
 
 header, aside, article, footer{
