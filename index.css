@@ -18,12 +18,17 @@ header{
 
 header, footer{
     grid-column: 1 / 4;
+    background-color: $gray-900;
 }
 
 header, aside, article, footer{
     border-style: solid;
     border-color: black; 
     border-width: 5px;
+}
+
+aside{
+    background-color: black;
 }
 
 body{
