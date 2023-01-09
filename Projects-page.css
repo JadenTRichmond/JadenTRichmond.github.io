@@ -13,12 +13,10 @@
 
 .parent{
     display: flex;
-    position: absolute;
     text-align: center;
 }
 
 .child{
-    position: absolute;
     align-items: center;
     justify-items: center;
 }
