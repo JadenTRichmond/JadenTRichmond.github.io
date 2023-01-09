@@ -32,3 +32,7 @@
     color: green;
     font-family: Times New Roman;
 }
+
+.card-text, .card-title{
+    font-family: Segoe UI;
+}
