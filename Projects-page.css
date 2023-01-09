@@ -3,8 +3,12 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+    gap: 0px;
+    height: 90vh;
     background: silver;
     border-style: solid;
+    border-color: black; 
+    border-width: 5px;
 }
 
 a{
