@@ -7,7 +7,7 @@
     height: 100vh;
     background: silver;
     border-style: solid;
-    border-width: 200px;
+    border-width: 5px;
     border-color: black;
 }
 
@@ -20,12 +20,6 @@
 
 .child{
     text-align: center;
-}
-
-.quarts{
-    border-style: solid;
-    border-width: 5px;
-    border-color: black;
 }
 
 .dope{
