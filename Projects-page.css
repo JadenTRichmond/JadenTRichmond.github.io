@@ -17,6 +17,10 @@
     justify-content: center;
 }
 
+.child{
+    text-align: center;
+}
+
 .dope{
     color: green;
     font-family: Times New Roman;
