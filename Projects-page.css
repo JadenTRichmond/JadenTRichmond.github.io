@@ -6,8 +6,8 @@
     gap: 0px;
     height: 100vh;
     background: silver;
-    justify-content: center;
-    align-content: center;
+    align-items: center;
+    justify-items: center;
     border-style: solid;
     border-width: 10 px;
     border-color: black;
