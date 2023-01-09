@@ -14,13 +14,16 @@
 .parent{
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-items: center;
 }
 
 .child{
     text-align: center;
+    align-items: center;
+    justify-items: center;
 }
+
+
 
 .dope{
     color: green;
