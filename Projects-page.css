@@ -6,9 +6,6 @@
     gap: 0px;
     height: 100vh;
     background: silver;
-    border-style: solid;
-    border-color: black; 
-    border-width: 5px;
     justify-content: center;
     align-content: center;
 }
