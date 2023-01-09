@@ -13,16 +13,6 @@
     justify-content: center;
 }
 
-.parent{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.child{
-    text-align: center;
-}
-
 .dope{
     color: green;
     font-family: 'Times New Roman', Times, serif;
