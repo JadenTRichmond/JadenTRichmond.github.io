@@ -9,8 +9,22 @@
     border-style: solid;
     border-width: 10px;
     border-color: black;
+}
+
+.parent{
+    display: flex;
+    text-align: center;
+}
+
+.child{
     align-items: center;
     justify-content: center;
+}
+
+.quarts{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
 }
 
 .dope{
