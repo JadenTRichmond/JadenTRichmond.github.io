@@ -21,7 +21,8 @@
     position: absolute;
     align-items: center;
     justify-items: center;
-    padding: 100px;
+    padding-left: 300px;
+    padding-top: 200px;
 }
 
 .quarts{
