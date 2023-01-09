@@ -19,6 +19,7 @@
 .child{
     align-items: center;
     justify-items: center;
+    padding: 100px;
 }
 
 .quarts{
